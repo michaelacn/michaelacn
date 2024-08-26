@@ -4,7 +4,7 @@ Student @[Institut Polytechnique](https://www.ip-paris.fr/en/about/about-us). I 
 
 ### About Me:
 
-Completing a Master's Degree at [Ensae Paris](https://www.ensae.fr/en/school/presentation-ensae-paris). Interested in Deep Learning, Financial Econometrics and Algorithmic Trading.
+Completing an Engineer's Degree at [Ensae Paris](https://www.ensae.fr/en/school/presentation-ensae-paris). Interested in Deep Learning, Financial Econometrics and Algorithmic Trading.
 
 Leveraged experience as a Quant Research Intern during a gap year, developing quantitative signals for Portfolio Managers:
 
