@@ -16,4 +16,4 @@ Contact: michael.aichoun@ensae.fr
 ### Some Projects:
 
 - **Intraday Algorithmic Trading**: Pairs trading strategy backtested with an OOP engine. [Repo](https://github.com/michaelacn/Statistical-Arbitrage-Intraday-Trading) | [Paper](https://doi.org/10.1007/s10614-023-10539-4)
-- **Attention Based RNN**: Developed a deep learning model for intraday time series data forecasting. [Repo](https://github.com/michaelacn/Dual-Stage-Attention-Based-RNN) | [Paper](https://www.ijcai.org/proceedings/2017/0366.pdf)
+- **Attention Based RNN**: Developed a deep learning model for time series forecasting. [Repo](https://github.com/michaelacn/Dual-Stage-Attention-Based-RNN) | [Paper](https://www.ijcai.org/proceedings/2017/0366.pdf)
